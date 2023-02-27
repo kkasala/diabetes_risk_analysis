@@ -16,5 +16,5 @@ Finally, Accuracies of these models are visualised on barplot.
 
 CONTRIBUTORS:
 1) Kavya Kasala 
-2) Rithika Reddy Baroor "<Rithika Baroor>"
+2) Rithika Reddy Baroor (username: https://github.com/RithikaBaroor)
 3) Mabel Komanduru
