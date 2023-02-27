@@ -15,6 +15,6 @@ Accuracy, sensitivity and specificity of all three model is calculated.
 Finally, Accuracies of these models are visualised on barplot.
 
 CONTRIBUTORS:
-1) Kavya Kasala
-2) Rithika Reddy Baroor
+1) Kavya Kasala 
+2) Rithika Reddy Baroor "<Rithika Baroor>"
 3) Mabel Komanduru
